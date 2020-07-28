@@ -5,5 +5,5 @@
  
  These are independent dart files which are build using pure dart and defalut material package(using no other dependency) making the dart file self-sufficient to use in your poject with simpel edits.🤘
  
- ##Why to work hard <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/1_cXLrgYcnkB3E2CgXQGxHSg.gif" alt="alt text" width="100ppx" height="100px"> when we can work smart.
-<img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/grass.png" alt="alt text" width="100ppx" height="100px"><img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/panda-waving.png" alt="alt text" width="100ppx" height="100px"><img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/grass.png" alt="alt text" width="100ppx" height="100px">
+ ##Why to work hard <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/ezgif.com-optimize.gif" alt="alt text" width="100ppx" height="100px"> when we can work smart.
+<img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/ezgif.com-gif-maker.gif" alt="alt text" width="100ppx" height="100px">
