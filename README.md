@@ -9,7 +9,7 @@
  ***
  
 ###   `... AnimatedContainer ...`
-|       hello world       |               <img align="right" width="300" height="500" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">|
+|       hello world       |    <br /><br /><br /><br />           <img align="right" width="300" height="500" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">|
 | --- | --- |
  
  
