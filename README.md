@@ -10,7 +10,7 @@
  
 ###   `... AnimatedContainer ...`
 hello world
- <img align="right"  src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">
+ <img align="right" width="100px" height="200px" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">
  
  
  Come back again to find more cool stufs
