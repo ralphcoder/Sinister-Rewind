@@ -9,7 +9,7 @@
  ***
  
 ###   `... AnimatedContainer ...`
-| http://github.com - automatic![GitHub](http://github.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" width="200" height="400" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">|
+| The AnimatedContainer will automatically animate between the old and new values of properties when they change using the provided curve and duration. &nbsp; &nbsp; &nbsp; &nbsp;    |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" width="200" height="400" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">|
 | --- | --- |
  
  
