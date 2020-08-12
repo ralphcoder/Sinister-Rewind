@@ -5,12 +5,17 @@
  
  These are independent dart files which are build using pure dart and defalut material package(using no other dependency) making the dart file self-sufficient to use in your poject with simpel edits.🤘Some of the coolest widgets🤩 provided in default package and their implementaion.
  
- ### Why to work hard <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/ezgif.com-optimize.gif" alt="alt text" width="100ppx" height="100px"> when we can work smart.
+ ### Why to work hard <img src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/ezgif.com-optimize.gif" alt="alt text" width="100ppx" height="100px"> when we can work smart.
  ***
  
 ###   `... AnimatedContainer ...`
 hello world
- <img align="right" width="100px" height="200px" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">
+ <img align="right" width="100" height="200" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">
+ 
+ 
+ 
+ 
+ 
  
  ***
  Come back again to find more cool stufs
