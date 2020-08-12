@@ -12,6 +12,6 @@
 hello world
  <img align="right" width="100px" height="200px" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">
  
- 
+ ***
  Come back again to find more cool stufs
 <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/ezgif.com-gif-maker.gif" alt="alt text" width="100ppx" height="100px">
