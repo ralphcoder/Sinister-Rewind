@@ -9,7 +9,9 @@
  ***
  
 ###   `... AnimatedContainer ...`
-| [###   `... AnimatedContainer ...`](https://www.google.com) &nbsp; &nbsp; &nbsp; &nbsp;    |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" width="200" height="400" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">|
+| [Go To File](https://www.google.com) Animated version of Container 
+that gradually changes its values
+over a period of time.&nbsp; &nbsp; &nbsp; &nbsp;    |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" width="200" height="400" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">|
 | --- | --- |
  
  
