@@ -58,21 +58,14 @@ class _tempState extends State<temp> {
                   'Awesome Flutter',
                   style: TextStyle(
                     fontSize: 18,
-                    fontWeight: FontWeight.w200,
-//                    color: Colors.white60,for the cloth effect
+                    fontWeight: FontWeight.w200,                
                     color: Colors.black,
                   ),
                 )),
                 decoration: BoxDecoration(
                   color: _color,
                   borderRadius: BorderRadius.circular(30),
-//                  boxShadow: [
-//                    BoxShadow(
-//                      offset: Offset(5, 5),
-//                      blurRadius: 8,
-//                      color: _color.withOpacity(.4),
-//                    ),
-//                  ],
+
                 ),
               ),
             ),
