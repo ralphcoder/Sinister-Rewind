@@ -14,19 +14,6 @@ class _temp4State extends State<temp4> {
     return Scaffold(
       backgroundColor: Colors.white70,
       body: Container(
-//        decoration: BoxDecoration(
-////            gradient: LinearGradient(
-//////                begin: Alignment.topCenter,
-//////                end: Alignment.bottomCenter,
-////////                stops: [
-////////              1.0,
-////////              3.1,
-////////            ],
-//////                colors: [
-//////              Colors.white12,
-//////              Colors.white,
-//////              Colors.white12,
-//////            ])),
         child: ListWheelScrollView(
           children: [
             NewWidget(
@@ -112,16 +99,6 @@ class NewWidget extends StatelessWidget {
       decoration: BoxDecoration(
         color: Colors.black12,
         borderRadius: BorderRadius.circular(20.0),
-//        gradient:
-//            LinearGradient(begin: Alignment.topLeft, end: Alignment.bottomRight,
-////            stops: [
-////              0.01,
-////              0.5,
-////            ],
-//                colors: [
-//              Color(0XFF181818),
-//              Color(0XFF383838),
-//            ]),
         boxShadow: [
           BoxShadow(
             offset: Offset(5, 5),
