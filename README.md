@@ -7,7 +7,7 @@
  
  ### Why to work hard <img src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/ezgif.com-optimize.gif" alt="alt text" width="100ppx" height="100px"> when we can work smart.
  ***
- If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+ If you appreciate the content 📖, support projects visibility, give 👍 | ⭐| 👏
  ***
  
 | ###   `AnimatedContainer`<br><br><br> [Go To File](https://github.com/ralphcoder/Sinister-Rewind/blob/master/dart%20files/animated_container.dart)<br><br><br><br> Animated version of Container <br> that gradually changes its value <br> sover a period of time.&nbsp; &nbsp; &nbsp; &nbsp;    |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" width="210" height="400" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">|
