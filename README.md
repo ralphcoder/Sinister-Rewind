@@ -3,7 +3,7 @@
 ## ---------🖖Small flutter builds to speedup our flutter projects🖖---------
  Ispired by polimorfism 😁
  
- These are independent dart files which are build using pure dart and defalut material package(using no other dependency) making the dart file self-sufficient to use in your poject with simpel edits.Also 🤘Some of the coolest widgets🤩 provided in default package and their implementaion.
+These are independent dart files which are build using pure dart and defalut material package(using no other dependency) making the dart file self-sufficient to use in your poject with simple edits. Also 🤘Some of the coolest widgets🤩 provided in default package and their implementaion.
  
  ### Why to work hard <img src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/ezgif.com-optimize.gif" alt="alt text" width="100ppx" height="100px"> when we can work smart.
  ***
