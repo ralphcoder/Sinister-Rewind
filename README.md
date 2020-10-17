@@ -18,7 +18,6 @@ These are independent dart files that are build using pure dart and default mate
  
  
  
- 
  Always welcome contributions😉.
  Come back again to find more cool stufs
 <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/ezgif.com-gif-maker.gif" alt="alt text" width="100ppx" height="100px">
