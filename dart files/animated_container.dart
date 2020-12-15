@@ -47,7 +47,7 @@ class _tempState extends State<temp> {
                   }
                 });
               },
-              child: AnimatedContainer(
+              child: AnimatedContainer(//similar to Container widget only here its aminated between two values
                 margin: EdgeInsets.all(20),
                 height: dheight,
                 width: dwidth,
