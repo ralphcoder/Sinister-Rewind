@@ -76,7 +76,7 @@ class _tempState extends State<temp> {
         backgroundColor: Colors.white,
         onPressed: () {
           setState(() {
-            if (dheight == 410) {
+            if (dheight == 410) {//if conditions to check the state of the box opend or closed
               dheight = 100;
               dwidth = 200;
               icond = Icons.arrow_downward;
