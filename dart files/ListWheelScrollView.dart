@@ -73,7 +73,7 @@ class _temp4State extends State<temp4> {
                 ),
                 s: 'Email'),
           ],
-          squeeze: 1.0,
+          squeeze: 1.0,//ListwheelScrollview widget 's properties..
           itemExtent: 180,
           diameterRatio: 1.9,
           offAxisFraction: -0.5,
