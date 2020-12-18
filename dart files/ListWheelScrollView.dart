@@ -103,7 +103,7 @@ class NewWidget extends StatelessWidget {
           BoxShadow(
             offset: Offset(5, 5),
             blurRadius: radius,
-            color: Color(0XFF585858).withOpacity(.3),
+            color: Color(0XFF585858).withOpacity(.3),//to make neomorphic box
 //            color: Color(0XFF383838).withOpacity(.4),
           ),
         ],
