@@ -73,7 +73,7 @@ class _temp4State extends State<temp4> {
                 ),
                 s: 'Email'),
           ],
-          squeeze: 1.0,//ListwheelScrollview widget 's properties..
+          squeeze: 1.0,//ListwheelScrollview widget's properties..
           itemExtent: 180,
           diameterRatio: 1.9,
           offAxisFraction: -0.5,
@@ -103,7 +103,7 @@ class NewWidget extends StatelessWidget {
           BoxShadow(
             offset: Offset(5, 5),
             blurRadius: radius,
-            color: Color(0XFF585858).withOpacity(.3),//to make neomorphic box
+            color: Color(0XFF585858).withOpacity(.3),//to make neomorphic button
 //            color: Color(0XFF383838).withOpacity(.4),//another style
           ),
         ],
