@@ -12,7 +12,7 @@ These are independent dart files that are build using pure dart and default mate
  
 | ###   `AnimatedContainer` <br><br><br> [Go To File](https://github.com/ralphcoder/Sinister-Rewind/blob/master/dart%20files/animated_container.dart)<br><br><br><br> Animated version of Container <br> that gradually changes its values <br> over period of time.&nbsp; &nbsp; &nbsp; &nbsp;    |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" width="210" height="400" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/animated%20container.gif">|
 | --- | --- |
-| ###   `Listwheelscroll` <br><br><br> [Go To File](https://github.com/ralphcoder/Sinister-Rewind/blob/master/dart%20files/ListWheelScrollView.dart)<br><br><br><br> A box in which children <br>on a wheel that can be scrolled. <br> &nbsp; &nbsp; &nbsp; &nbsp;    |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" width="210" height="400" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/listviewscrollgif.gif">|
+| ###   `Listwheelscroll` <br><br><br> [Go To File](https://github.com/ralphcoder/Sinister-Rewind/blob/master/dart%20files/ListWheelScrollView.dart)<br><br><br><br> A box in which children <br>on a wheel which can be scrolled. <br> &nbsp; &nbsp; &nbsp; &nbsp;    |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img align="right" width="210" height="400" src="https://github.com/ralphcoder/Sinister-Rewind/blob/master/readme%20assets/listviewscrollgif.gif">|
 | --- | --- |
  
  
