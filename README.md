@@ -1,6 +1,6 @@
 # Sinister Rewind
 <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/one.gif" alt="alt text" width="300ppx" height="200px">  <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/flutter%20logo.png" alt="alt text" width="200ppx" height="200px">  <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/ezgif.com-rotate.gif" alt="alt text" width="300ppx" height="200px">
-## ---------🖖 Small Flutter build to speedup our flutter projects 🖖---------
+## ---------🖖 Small Flutter build to speed up our flutter projects 🖖---------
 Ispired by polimorfism 😁 -
  
 These are independent dart files that are build using pure dart and default material package(using no other dependency) making the dart file self-sufficient to be use in your project with simple edits. There is also 🤘 a collection of some coolest 🤩 widgets provided in default package and their cool implementation.
