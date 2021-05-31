@@ -76,7 +76,7 @@ class _temp4State extends State<temp4> {
           squeeze: 1.0,//ListwheelScrollview widget's propertie for arc size..
           itemExtent: 180,
           diameterRatio: 1.9,
-          offAxisFraction: -0.5,
+          offAxisFraction: -0.5,//ListwheelScrollview widget's propertie for arc tilt..
         ),
       ),
     );
